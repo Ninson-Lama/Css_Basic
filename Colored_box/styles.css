@@ -1,0 +1,39 @@
+body {
+    background-color: #f4f4f4;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.color-grid {
+    display: flex;
+    gap: 20px;
+    padding: 40px;
+    justify-content: center;
+}
+
+.color-box {
+    width: 120px;
+    height: 120px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
+
+.color1 {
+    background-color: #3498db;
+}
+
+.color2 {
+    background-color: rgb(255, 99, 71); 
+}
+
+.color3 {
+    background-color: skyblue; 
+}
+
+.color4 {
+    background-color: hsl(140, 50%, 45%); 
+}
+
+.color5 {
+    background-color: #b19cd9; 
+}
