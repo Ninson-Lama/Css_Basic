@@ -4,6 +4,8 @@ body {
     font-family: Arial, sans-serif;
 }
 
+    /* The following styles are for the color boxes and grid layout */
+
 .color-grid {
     display: flex;
     gap: 20px;
@@ -37,3 +39,7 @@ body {
 .color5 {
     background-color: #b19cd9; 
 }
+
+
+
+/* and just a random comment */
