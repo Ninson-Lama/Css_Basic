@@ -34,7 +34,7 @@ textarea:valid {
 
 .radio-group input[type="radio"]:checked {
     border-color: blue;
-    background-color: lightblue;
+    background-color: rgb(136, 199, 219);
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
 }
 
