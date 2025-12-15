@@ -16,7 +16,7 @@ body {
 }
 
 .card:hover {
-  background-color: khaki;
+  background-color: rgb(237, 227, 133);
   transform: scale(1.1);
 }
 
