@@ -41,7 +41,7 @@ img {
 hr {
   height: 2px;
   background-color: brown;
-  border-color: brown;
+  border-color: rgb(176, 46, 46);
 }
 
 .bottom-line {
