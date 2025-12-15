@@ -45,7 +45,7 @@ h1::after {
   padding: 10px 20px;
   border-radius: 5px;
   color: white;
-  background-color: midnightblue;
+  background-color: rgb(28, 28, 133);
   transition: background-color 0.3s ease;
 }
 
