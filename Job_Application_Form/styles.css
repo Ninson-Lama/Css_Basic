@@ -16,7 +16,7 @@ input:first-of-type {
 
 input:focus,
 textarea:focus {
-    border-color: rgb(35, 143, 250);
+    border-color: rgb(35, 136, 236);
     outline: none;
 }
 
